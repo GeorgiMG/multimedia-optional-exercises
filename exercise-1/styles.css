@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.keyboard {
+    width: 80vw;
+    height: 40vh;
+    background-color: #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.keypad {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    position: relative;
+    display: flex;
+}
+
+.key {
+    position: relative;
+    border-radius: 3px;
+    transition: all 0.1s;
+    cursor: pointer;
+}
+
+.key span {
+    position: absolute;
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 10px;
+    color: #333;
+    font-weight: bold;
+}
+
+.white {
+    flex: 1;
+    height: 100%;
+    background-color: white;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 0 5px rgba(0,0,0,0.3);
+}
+
+.white:hover {
+    background-color: #f0f0f0;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.5);
+}
+
+.black {
+    position: absolute;
+    top: 0;
+    width: 60%;
+    height: 60%;
+    background-color: black;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+    z-index: 1;
+}
+
+.black:hover {
+    background-color: #333;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.5);
+}
+
+.black span {
+    color: white;
+}
+
+/* Positioning black keys */
+.keypad .black:nth-child(2) { /* C# */
+    left: calc(50% - 30%);
+}
+.keypad .black:nth-child(4) { /* Eb */
+    left: calc(150% - 30%);
+}
+.keypad .black:nth-child(7) { /* F# */
+    left: calc(350% - 30%);
+}
+.keypad .black:nth-child(9) { /* G# */
+    left: calc(450% - 30%);
+}
+.keypad .black:nth-child(11) { /* Bb */
+    left: calc(550% - 30%);
+}
+.keypad .black:nth-child(14) { /* C# octave 2 */
+    left: calc(650% - 30%);
+}
+.keypad .black:nth-child(16) { /* Eb */
+    left: calc(750% - 30%);
+}
+.keypad .black:nth-child(19) { /* F# */
+    left: calc(950% - 30%);
+}
+.keypad .black:nth-child(21) { /* G# */
+    left: calc(1050% - 30%);
+}
+.keypad .black:nth-child(23) { /* Bb */
+    left: calc(1150% - 30%);
+}

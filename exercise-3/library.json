@@ -1,0 +1,172 @@
+[
+  {
+    "artist": "The Beatles",
+    "album": "Abbey Road",
+    "thumbnail": "abbey-road.jpg",
+    "tracks": [
+      {"title": "Come Together", "length": "4:20", "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"},
+      {"title": "Something", "length": "3:03", "url": "https://open.spotify.com/track/0JQ5I0hzBJcLk9rLOJzNzg"},
+      {"title": "Maxwell's Silver Hammer", "length": "3:27", "url": "https://open.spotify.com/track/1nY8AiWCC2XzD0YvG4QkBH"},
+      {"title": "Oh! Darling", "length": "3:26", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Octopus's Garden", "length": "2:51", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "I Want You (She's So Heavy)", "length": "7:47", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Here Comes the Sun", "length": "3:06", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Because", "length": "2:45", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "You Never Give Me Your Money", "length": "4:02", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Sun King", "length": "2:26", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Mean Mr. Mustard", "length": "1:06", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Polythene Pam", "length": "1:12", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "She Came In Through the Bathroom Window", "length": "1:58", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Golden Slumbers", "length": "1:31", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Carry That Weight", "length": "1:36", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "The End", "length": "2:05", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Her Majesty", "length": "0:23", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"}
+    ]
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "The Dark Side of the Moon",
+    "thumbnail": "dark-side.jpg",
+    "tracks": [
+      {"title": "Speak to Me", "length": "1:05", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Breathe", "length": "2:49", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "On the Run", "length": "3:30", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Time", "length": "6:53", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "The Great Gig in the Sky", "length": "4:44", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Money", "length": "6:22", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Us and Them", "length": "7:49", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Any Colour You Like", "length": "3:26", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Brain Damage", "length": "3:46", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Eclipse", "length": "2:03", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"}
+    ]
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "IV",
+    "thumbnail": "led-zeppelin-iv.jpg",
+    "tracks": [
+      {"title": "Black Dog", "length": "4:55", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Rock and Roll", "length": "3:40", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "The Battle of Evermore", "length": "5:51", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Stairway to Heaven", "length": "8:02", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Misty Mountain Hop", "length": "4:39", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Four Sticks", "length": "4:45", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Going to California", "length": "3:32", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "When the Levee Breaks", "length": "7:08", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"}
+    ]
+  },
+  {
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "thumbnail": "night-at-opera.jpg",
+    "tracks": [
+      {"title": "Death on Two Legs (Dedicated to...)", "length": "3:43", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Lazing on a Sunday Afternoon", "length": "1:07", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "I'm in Love with My Car", "length": "3:05", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "You're My Best Friend", "length": "2:50", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "39", "length": "3:30", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Sweet Lady", "length": "4:01", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Seaside Rendezvous", "length": "2:13", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "The Prophet's Song", "length": "8:21", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Love of My Life", "length": "3:39", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Good Company", "length": "3:23", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Bohemian Rhapsody", "length": "5:55", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "God Save the Queen", "length": "1:15", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"}
+    ]
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "thumbnail": "thriller.jpg",
+    "tracks": [
+      {"title": "Wanna Be Startin' Somethin'", "length": "6:03", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Baby Be Mine", "length": "4:20", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "The Girl Is Mine", "length": "3:42", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Thriller", "length": "5:57", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Beat It", "length": "4:18", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Billie Jean", "length": "4:54", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Human Nature", "length": "4:06", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "P.Y.T. (Pretty Young Thing)", "length": "3:59", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "The Lady in My Life", "length": "4:59", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"}
+    ]
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "Highway 61 Revisited",
+    "thumbnail": "highway-61.jpg",
+    "tracks": [
+      {"title": "Like a Rolling Stone", "length": "6:09", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Tombstone Blues", "length": "5:58", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "It Takes a Lot to Laugh, It Takes a Train to Cry", "length": "4:09", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "From a Buick 6", "length": "3:19", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Ballad of a Thin Man", "length": "5:58", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Queen Jane Approximately", "length": "5:31", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Highway 61 Revisited", "length": "3:30", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Just Like Tom Thumb's Blues", "length": "5:31", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Desolation Row", "length": "11:21", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"}
+    ]
+  },
+  {
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "thumbnail": "nevermind.jpg",
+    "tracks": [
+      {"title": "Smells Like Teen Spirit", "length": "5:01", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "In Bloom", "length": "4:14", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Come as You Are", "length": "3:39", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Breed", "length": "3:03", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Lithium", "length": "4:17", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Polly", "length": "2:57", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Territorial Pissings", "length": "2:22", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Drain You", "length": "3:43", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Lounge Act", "length": "2:36", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Stay Away", "length": "3:32", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "On a Plain", "length": "3:16", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Something in the Way", "length": "3:46", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"}
+    ]
+  },
+  {
+    "artist": "Radiohead",
+    "album": "OK Computer",
+    "thumbnail": "ok-computer.jpg",
+    "tracks": [
+      {"title": "Airbag", "length": "4:44", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Paranoid Android", "length": "6:23", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Subterranean Homesick Alien", "length": "4:27", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Exit Music (For a Film)", "length": "4:24", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Let Down", "length": "4:59", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Karma Police", "length": "4:21", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Fitter Happier", "length": "1:57", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Electioneering", "length": "3:50", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Climbing Up the Walls", "length": "4:45", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "No Surprises", "length": "3:48", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Lucky", "length": "4:19", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "The Tourist", "length": "5:24", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"}
+    ]
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Exile on Main St.",
+    "thumbnail": "exile-on-main-st.jpg",
+    "tracks": [
+      {"title": "Rocks Off", "length": "4:31", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Rip This Joint", "length": "2:22", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Shake Your Hips", "length": "2:59", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Casino Boogie", "length": "3:33", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Tumbling Dice", "length": "3:45", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Sweet Virginia", "length": "4:27", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Torn and Frayed", "length": "4:17", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Sweet Black Angel", "length": "2:54", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Loving Cup", "length": "4:25", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Happy", "length": "3:04", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Turds on the Run", "length": "2:39", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Ventilator Blues", "length": "3:24", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "I Just Want to See His Face", "length": "2:52", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Let It Loose", "length": "5:16", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "All Down the Line", "length": "3:49", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Stop Breaking Down", "length": "4:34", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Shine a Light", "length": "4:14", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"},
+      {"title": "Soul Survivor", "length": "3:49", "url": "https://open.spotify.com/track/0KUBgz0tZ0r2tLGhzWG9wG"}
+    ]
+  }
+]

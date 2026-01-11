@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.board {
+    display: grid;
+    grid-template-rows: repeat(6, 1fr);
+    grid-template-columns: repeat(5, 1fr);
+    gap: 5px;
+    margin-bottom: 20px;
+}
+
+.cell {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+}
+
+.cell.correct {
+    background-color: #6aaa64;
+    color: white;
+    animation: flip 0.6s ease;
+}
+
+.cell.present {
+    background-color: #c9b458;
+    color: white;
+    animation: flip 0.6s ease;
+}
+
+.cell.absent {
+    background-color: #787c7e;
+    color: white;
+    animation: flip 0.6s ease;
+}
+
+@keyframes flip {
+    0% { transform: rotateY(0deg); }
+    50% { transform: rotateY(90deg); }
+    100% { transform: rotateY(0deg); }
+}
+
+.input-section {
+    margin-bottom: 20px;
+}
+
+#guess-input {
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+    margin-right: 10px;
+    transition: border-color 0.3s;
+}
+
+#guess-input:focus {
+    outline: none;
+    border-color: #4a90e2;
+}
+
+#submit-btn, #new-game-btn {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#submit-btn:hover, #new-game-btn:hover {
+    background-color: #357abd;
+}
+
+#submit-btn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+#message {
+    margin-top: 10px;
+    font-size: 16px;
+    color: red;
+    min-height: 20px;
+}
+
+.stats {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #333;
+}
